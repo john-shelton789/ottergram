@@ -4,20 +4,20 @@
   font-weight: normal;
   src: url('fonts/LAKESHOR-webfont.eot');
   src: url('fonts/LAKESHOR-webfont.eot?#iefix') format('embedded-opentype'),
-       url('fonts/LAKESHOR-webfont.woff') format('woff'),
-       url('fonts/LAKESHOR-webfont.ttf') format('truetype'),
-       url('fonts/LAKESHOR-webfont.svg#lakeshore') format('svg');
+    url('fonts/LAKESHOR-webfont.woff') format('woff'),
+    url('fonts/LAKESHOR-webfont.ttf') format('truetype'),
+    url('fonts/LAKESHOR-webfont.svg#lakeshore') format('svg');
 }
 
 @font-face {
   font-family: 'airstreamregular';
   font-style: normal;
   font-weight: normal;
-  src:url('fonts/Airstream-webfont.eot');
-  src:url('fonts/Airstream-webfont.eot?#iefix') format('embedded-opentype'),
-      url('fonts/Airstream-webfont.woff') format('woff'),
-      url('fonts/Airstream-webfont.ttf') format('truetype'),
-      url('fonts/Airstream-webfont.svg#airstreamregular') format('svg');
+  src: url('fonts/Airstream-webfont.eot');
+  src: url('fonts/Airstream-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Airstream-webfont.woff') format('woff'),
+    url('fonts/Airstream-webfont.ttf') format('truetype'),
+    url('fonts/Airstream-webfont.svg#airstreamregular') format('svg');
 }
 
 a {
@@ -36,7 +36,7 @@ body {
 }
 
 .detail-image {
-  width:90%;
+  width: 90%;
 }
 
 .detail-image-container {
@@ -51,7 +51,7 @@ body {
   text-align: center;
 }
 
-.detail-image-title{
+.detail-image-title {
   bottom: -16px;
   color: white;
   font-family: airstreamregular;
@@ -70,7 +70,7 @@ body {
 }
 
 .main-content {
-  display:flex;
+  display: flex;
   flex: 1 1 auto;
   flex-direction: column;
 }
